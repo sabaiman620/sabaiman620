@@ -10,12 +10,7 @@ Building modern, scalable and user-friendly web applications.
 
 <br/>
 
-<img src="https://img.shields.io/badge/JavaScript-3F3F46?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-3F3F46?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/React-3F3F46?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-3F3F46?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Node.js-3F3F46?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
-<img src="https://img.shields.io/badge/MongoDB-3F3F46?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,git,github" />
 
 <br/><br/>
 
@@ -59,11 +54,7 @@ I work across both **frontend and backend**, turning ideas into complete product
 ### 🎨 Frontend
 
 <p>
-<img src="https://img.shields.io/badge/JavaScript-3F3F46?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-3F3F46?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/React-3F3F46?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-3F3F46?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Tailwind-3F3F46?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" />
 </p>
 
 **JavaScript · TypeScript · React · Next.js · Tailwind CSS**
@@ -75,8 +66,7 @@ I work across both **frontend and backend**, turning ideas into complete product
 ### ⚙️ Backend
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-3F3F46?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
-<img src="https://img.shields.io/badge/Express.js-3F3F46?style=flat-square&logo=express&logoColor=FFFFFF" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 **Node.js · Express.js · REST APIs**
@@ -90,9 +80,7 @@ I work across both **frontend and backend**, turning ideas into complete product
 ### 🗄️ Database
 
 <p>
-<img src="https://img.shields.io/badge/MongoDB-3F3F46?style=flat-square&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/PostgreSQL-3F3F46?style=flat-square&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/Prisma-3F3F46?style=flat-square&logo=prisma&logoColor=FFFFFF" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
 </p>
 
 **MongoDB · PostgreSQL · Prisma**
@@ -104,9 +92,7 @@ I work across both **frontend and backend**, turning ideas into complete product
 ### 🔧 Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-3F3F46?style=flat-square&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-3F3F46?style=flat-square&logo=github&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/VS%20Code-3F3F46?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 **Git · GitHub · VS Code**
