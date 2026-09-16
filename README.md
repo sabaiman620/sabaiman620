@@ -8,10 +8,6 @@
 
 Building modern, scalable and user-friendly web applications.
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,git,github" />
-
 <br/><br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sabaiman620&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/sabaiman620)
@@ -47,59 +43,17 @@ I work across both **frontend and backend**, turning ideas into complete product
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🎨 Frontend
+<br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,git,github,vscode&perline=8" />
 
-**JavaScript · TypeScript · React · Next.js · Tailwind CSS**
+<br/><br/>
 
-</td>
+**HTML · CSS · JavaScript · TypeScript · React · Next.js · Node.js · Express.js · MongoDB · PostgreSQL · Prisma · Tailwind CSS · Git · GitHub · VS Code**
 
-<td width="50%" valign="top">
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-**Node.js · Express.js · REST APIs**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
-</p>
-
-**MongoDB · PostgreSQL · Prisma**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-**Git · GitHub · VS Code**
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
