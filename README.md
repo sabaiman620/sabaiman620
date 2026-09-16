@@ -24,20 +24,15 @@ Building modern, scalable and user-friendly web applications.
 
 ## 🚀 About Me
 
-I'm a **Junior Full-Stack Developer** passionate about building modern and scalable web applications.
-
-I work across both **frontend and backend**, turning ideas into complete production-ready solutions.
-
+I enjoy developing complete web solutions across the frontend and backend, including RESTful APIs, authentication, database integration, role-based access control, and production deployments.  
 ### 💡 What I Work With
 
-- 🎨 Modern and responsive frontend development
-- ⚙️ RESTful API development
-- 🔐 Authentication & authorization
-- 👥 Role-based access control
-- 🗄️ Database design & integration
-- 🚀 Production deployment
-- 📱 Responsive UI/UX
-- 🔧 Performance optimization
+- 💻 Full-stack developer focused on MERN Stack & Next.js
+- 🚀 Built e-commerce and inventory management systems 
+- 🔧 Comfortable working with REST APIs, authentication, databases, and third-party integrations
+- 🌱 Continuously improving my software engineering and problem-solving skills
+- 🤝 Open to collaborating on interesting web development projects
+- 🌍 Interested in remote and international opportunities
 
 ---
 
