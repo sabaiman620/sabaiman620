@@ -24,11 +24,11 @@ Building modern, scalable and user-friendly web applications.
 
 ## 🚀 About Me
 
-I enjoy developing complete web solutions across the frontend and backend, including RESTful APIs, authentication, database integration, role-based access control, and production deployments.  
+I enjoy developing complete web solutions across the frontend and backend, including RESTful APIs, authentication, database integration, role-based access control, and production deployment.  
 ### 💡 What I Work With
 
 - 💻 Full-stack developer focused on MERN Stack & Next.js
-- 🚀 Built e-commerce and inventory management systems 
+- 🚀 Developed e-commerce and inventory management systems
 - 🔧 Comfortable working with REST APIs, authentication, databases, and third-party integrations
 - 🌱 Continuously improving my software engineering and problem-solving skills
 - 🤝 Open to collaborating on interesting web development projects
@@ -58,8 +58,8 @@ I enjoy developing complete web solutions across the frontend and backend, inclu
 ## 💻 Development Focus
 
 ```text
-Frontend        ████████████████████  React · Next.js · TypeScript
-Backend         ██████████████████░░  Node.js · Express.js · REST APIs
-Databases       █████████████████░░░  MongoDB · PostgreSQL · Prisma
-UI / UX         ██████████████████░░  Responsive & Modern Interfaces
+Frontend        ████████████████░░░░  React · Next.js · TypeScript
+Backend         ████████████████████  Node.js · Express.js · REST APIs
+Databases       ██████████████████░░  MongoDB · PostgreSQL · Prisma
+UI / UX         █████████████████░░░  Responsive & Modern Interfaces
 Deployment      ████████████████░░░░  Production Deployments
