@@ -11,28 +11,28 @@ I enjoy developing complete web solutions across the frontend and backend, inclu
   <tr>
     <td><strong>Frontend</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" height="42" />
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" height="32" />
     </td>
   </tr>
 
   <tr>
     <td><strong>Backend</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express" height="42" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express" height="32" />
     </td>
   </tr>
 
   <tr>
     <td><strong>Database</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" height="42" />
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" height="32" />
     </td>
   </tr>
 
   <tr>
     <td><strong>Tools</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" height="42" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" height="32" />
     </td>
   </tr>
 </table>
