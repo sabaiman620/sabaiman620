@@ -1,38 +1,115 @@
-👋 Hi, I'm Saba Kausar
-Full-Stack Developer | MERN Stack Developer| Next.js Developer
+<!-- ======================= HEADER ======================= -->
 
-I’m a Junior Full-Stack Developer with hands-on experience building modern and scalable web applications using MERN Stack and Next.js.
+<div align="center">
 
-I enjoy developing complete web solutions across the frontend and backend, including RESTful APIs, authentication, database integration, role-based access control, and production deployments.
+# 👋 Hi, I'm Saba Kausar
+
+### Full-Stack Developer · MERN Stack · Next.js
+
+Building modern, scalable and user-friendly web applications.
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,git,github" />
+
+<br/><br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=sabaiman620&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/sabaiman620)
+[![GitHub followers](https://img.shields.io/github/followers/sabaiman620?label=Followers&style=flat)](https://github.com/sabaiman620)
+[![GitHub stars](https://img.shields.io/github/stars/sabaiman620?label=Stars&style=flat)](https://github.com/sabaiman620)
+
+</div>
+
+---
+
+<!-- ======================= ABOUT ======================= -->
+
+## 🚀 About Me
+
+I'm a **Junior Full-Stack Developer** passionate about building modern and scalable web applications.
+
+I work across both **frontend and backend**, turning ideas into complete production-ready solutions.
+
+### 💡 What I Work With
+
+- 🎨 Modern and responsive frontend development
+- ⚙️ RESTful API development
+- 🔐 Authentication & authorization
+- 👥 Role-based access control
+- 🗄️ Database design & integration
+- 🚀 Production deployment
+- 📱 Responsive UI/UX
+- 🔧 Performance optimization
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
 
 ## 🛠️ Tech Stack
 
 <table>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" height="32" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
 
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express" height="32" />
-    </td>
-  </tr>
+### 🎨 Frontend
 
-  <tr>
-    <td><strong>Database</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" height="32" />
-    </td>
-  </tr>
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" />
+</p>
 
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" height="32" />
-    </td>
-  </tr>
+**JavaScript · TypeScript · React · Next.js · Tailwind CSS**
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+**Node.js · Express.js · REST APIs**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
+</p>
+
+**MongoDB · PostgreSQL · Prisma**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+**Git · GitHub · VS Code**
+
+</td>
+</tr>
 </table>
+
+---
+
+<!-- ======================= DEVELOPMENT ======================= -->
+
+## 💻 Development Focus
+
+```text
+Frontend        ████████████████████  React · Next.js · TypeScript
+Backend         ██████████████████░░  Node.js · Express.js · REST APIs
+Databases       █████████████████░░░  MongoDB · PostgreSQL · Prisma
+UI / UX         ██████████████████░░  Responsive & Modern Interfaces
+Deployment      ████████████████░░░░  Production Deployments
