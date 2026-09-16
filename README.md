@@ -10,18 +10,18 @@ Building modern, scalable and user-friendly web applications.
 
 <br/>
 
-<img src="https://img.shields.io/badge/JavaScript-181818?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-181818?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/React-181818?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-181818?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Node.js-181818?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
-<img src="https://img.shields.io/badge/MongoDB-181818?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" />
+<img src="https://img.shields.io/badge/Next.js-EDEDED?style=for-the-badge&logo=nextdotjs&logoColor=111111" />
+<img src="https://img.shields.io/badge/Node.js-B7E4C7?style=for-the-badge&logo=nodedotjs&logoColor=1B4332" />
+<img src="https://img.shields.io/badge/MongoDB-B8E0D2?style=for-the-badge&logo=mongodb&logoColor=14532D" />
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sabaiman620&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/sabaiman620)
-[![GitHub followers](https://img.shields.io/github/followers/sabaiman620?label=Followers&style=flat)](https://github.com/sabaiman620)
-[![GitHub stars](https://img.shields.io/github/stars/sabaiman620?label=Stars&style=flat)](https://github.com/sabaiman620)
+[![Profile Views](https://komarev.com/ghpvc/?username=sabaiman620&label=Profile%20Views&color=9DB4C0&style=flat)](https://github.com/sabaiman620)
+[![GitHub followers](https://img.shields.io/github/followers/sabaiman620?label=Followers&color=8ECAE6&style=flat)](https://github.com/sabaiman620)
+[![GitHub stars](https://img.shields.io/github/stars/sabaiman620?label=Stars&color=F6BD60&style=flat)](https://github.com/sabaiman620)
 
 </div>
 
@@ -59,11 +59,11 @@ I work across both **frontend and backend**, turning ideas into complete product
 ### 🎨 Frontend
 
 <p>
-<img src="https://img.shields.io/badge/JavaScript-181818?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-181818?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/React-181818?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-181818?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Tailwind-181818?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" />
+<img src="https://img.shields.io/badge/Next.js-EDEDED?style=for-the-badge&logo=nextdotjs&logoColor=111111" />
+<img src="https://img.shields.io/badge/Tailwind-BAE6FD?style=for-the-badge&logo=tailwindcss&logoColor=0F172A" />
 </p>
 
 **JavaScript · TypeScript · React · Next.js · Tailwind CSS**
@@ -75,8 +75,8 @@ I work across both **frontend and backend**, turning ideas into complete product
 ### ⚙️ Backend
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-181818?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
-<img src="https://img.shields.io/badge/Express.js-181818?style=flat-square&logo=express&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Node.js-B7E4C7?style=for-the-badge&logo=nodedotjs&logoColor=1B4332" />
+<img src="https://img.shields.io/badge/Express.js-E8E8E8?style=for-the-badge&logo=express&logoColor=222222" />
 </p>
 
 **Node.js · Express.js · REST APIs**
@@ -90,9 +90,9 @@ I work across both **frontend and backend**, turning ideas into complete product
 ### 🗄️ Database
 
 <p>
-<img src="https://img.shields.io/badge/MongoDB-181818?style=flat-square&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/PostgreSQL-181818?style=flat-square&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/Prisma-181818?style=flat-square&logo=prisma&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/MongoDB-B8E0D2?style=for-the-badge&logo=mongodb&logoColor=14532D" />
+<img src="https://img.shields.io/badge/PostgreSQL-BFD7EA?style=for-the-badge&logo=postgresql&logoColor=1E3A5F" />
+<img src="https://img.shields.io/badge/Prisma-D9D9D9?style=for-the-badge&logo=prisma&logoColor=374151" />
 </p>
 
 **MongoDB · PostgreSQL · Prisma**
@@ -104,9 +104,9 @@ I work across both **frontend and backend**, turning ideas into complete product
 ### 🔧 Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-181818?style=flat-square&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/VS%20Code-181818?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/Git-FAD2C8?style=for-the-badge&logo=git&logoColor=9B2226" />
+<img src="https://img.shields.io/badge/GitHub-E2E8F0?style=for-the-badge&logo=github&logoColor=1E293B" />
+<img src="https://img.shields.io/badge/VS%20Code-C7E9F1?style=for-the-badge&logo=visualstudiocode&logoColor=075985" />
 </p>
 
 **Git · GitHub · VS Code**
