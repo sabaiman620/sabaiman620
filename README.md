@@ -7,22 +7,32 @@ I enjoy developing complete web solutions across the frontend and backend, inclu
 
 ## 🛠️ Tech Stack
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" height="40" />
-</p>
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" height="42" />
+    </td>
+  </tr>
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" />
-</p>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express" height="42" />
+    </td>
+  </tr>
 
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" height="40" />
-</p>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" height="42" />
+    </td>
+  </tr>
 
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" />
-</p>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" height="42" />
+    </td>
+  </tr>
+</table>
